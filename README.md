@@ -39,7 +39,7 @@
 >    youtube-->eat
 >    finish-->start
 >    work-->distracted;
->    play-->work;
+>    distracted-->work;
 >    work-->finish;
 > ```
 
