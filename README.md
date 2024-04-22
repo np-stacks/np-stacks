@@ -24,8 +24,21 @@
 > graph TD;
 >    start-->distracted;
 >    distracted-->work;
->    distracted-->play;
->    work-->distracted
+>    distracted-->haxball;
+>    distracted-->discord;
+>    discord-->haxball;
+>    haxball-->discord
+>    discord-->eat;
+>    eat-->distracted;
+>    distracted-->eat;
+>    eat-->work;
+>    work-->eat
+>    distracted-->youtube
+>    youtube-->haxball
+>    youtube-->discord
+>    youtube-->eat
+>    finish-->start
+>    work-->distracted;
 >    play-->work;
 >    work-->finish;
 > ```
