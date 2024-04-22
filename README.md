@@ -3,9 +3,6 @@
 ## helpful things
 > [!NOTE]
 > discord: @__stacks
-> twitter: i forgot
-> instagram: doesnt exist
-> facebook: doesnt exist
 
 > [!TIP]
 > when working, make sure to save.
