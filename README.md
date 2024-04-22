@@ -1,34 +1,25 @@
 # stacks
 
-<details>
-  
-<summary>how good am i at coding? (DO NOT READ)</summary>
-
-- JavaScript: ***`ASS`***
-- Java: ***`AS GOOD AS A DOG AT SPEAKING ENGLISH`***
-- JSON: ***`I KNOW THE BASICS OF NOTHING`***
-- Python: ***`SHIT`***
-- Lua: ***`CRAP`***
-- GoLang: ***`wtf ew`***
-
-</details>
-
-## helpful tips
+## helpful things
 > [!NOTE]
-> identifies as a ~~dumb~~ duck
+> discord: @__stacks
+> twitter: i forgot
+> instagram: doesnt exist
+> facebook: doesnt exist
 
 > [!TIP]
-> ignore the "how good am i at coding?" section (i am really good actually)
+> when working, make sure to save.
 
 > [!IMPORTANT]
-> - [ ] smart
-> - [x] dumb
-> - [ ] ~~good~~ bad at coding
-> - [x] bites
-> - [ ] pro haxballer
+> - [x] java
+> - [x] javascript
+> - [x] json
+> - [x] lua
+> - [x] python
+> - [ ] GoLang
 
 > [!WARNING]
-> thi duck bites
+> this goose bites
 
 > [!CAUTION]
 > i have an awesome work schedule
