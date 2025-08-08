@@ -1,8 +1,22 @@
-### stacks
-A professional noob that is good at doing bad things. Maybe I'm just hating on myself, I dont know.
+**Hello I'm stacks  :wave:**
 
-> [!WARNING]
-> This goose bites
 
-- **Discord**: @__stacks
-- **Twitter**: @stacksHB
+
+###### Projects I'm working on...
+- QuestHunt - Gamified To-Do list inside your browser.
+
+
+
+###### Love Languages...
+- Javascript
+- Python
+- Java
+- Lua
+- C++
+
+
+###### You can reach me through...
+ - Discord: @__stacks
+ - Gmail: np.stacks@gmail.com
+
+
