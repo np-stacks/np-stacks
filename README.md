@@ -17,5 +17,6 @@
 
 ###### You can reach me through...
  - Discord: @__stacks
+ - GitHub: https://github.com/np-stacks/np-stacks/issues
  - Gmail: np.stacks@gmail.com
  - Gmail regarding repositories: org.stacks@gmail.com
