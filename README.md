@@ -5,8 +5,8 @@
 
 
 ###### Projects I'm working on...
-- **QuestHunt** - Gamified To-Do list inside your browser.
-- **Notch** - The amazing all-in-one notes app. No distractions allowed.
+- **[QuestHunt](https://github.com/QuestHuntApp/QuestHuntApp.github.io)** - Gamified To-Do list inside your browser.
+- **[Notch](https://github.com/NotchApp/NotchApp.github.io/tree/main)** - The amazing all-in-one notes app. No distractions allowed.
 
 
 
@@ -16,6 +16,7 @@
 - Java
 - Lua
 - C++
+- HTML and CSS
 
 
 ###### You can reach me through...
