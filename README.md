@@ -1,7 +1,7 @@
-**Hello I'm stacks  :wave:**
+**Hello I'm [stacks](https://np-stacks.github.io)  :wave:**
 
 ###### My Proudly Presented Projects...
-- ☹️ There's nothing here yet... *Check my projects that are WIP below!*
+- **[My Profile](https://np-stacks.github.io)** - My portfolio!
 
 
 ###### Projects I'm working on...
