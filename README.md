@@ -5,9 +5,7 @@
 
 
 ###### Projects I'm working on...
-- `85%` **[Please Focus](https://github.com/np-stacks/please-focus)** - A cool productivity extension- I guess.
 - `70%` **[QuestHunt](https://github.com/QuestHuntApp/QuestHuntApp.github.io)** - Gamified To-Do list inside your browser.
-- `00%` **[Notch](https://github.com/NotchApp/NotchApp.github.io/tree/main)** - The amazing all-in-one notes app. No distractions allowed.
 
 
 
