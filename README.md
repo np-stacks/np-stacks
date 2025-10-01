@@ -1,11 +1,12 @@
 **Hello I'm [stacks](https://np-stacks.github.io)  :wave:**
 
 ###### My Proudly Presented Projects...
-- **[My Profile](https://np-stacks.github.io)** - My portfolio!
+- **[My Portfolio](https://stacks08.foo)** - Check me out..!
+- **[Expert Learning](https://expertlearning.app)** - *WIP* Generate AI tools to study with a simple text or file prompt!
 
 
 ###### Projects I'm working on...
-- `70%` **[QuestHunt](https://github.com/QuestHuntApp/QuestHuntApp.github.io)** - Gamified To-Do list inside your browser.
+- `76%` **[Expert Learning](https://expertlearning.app)** - *WIP* Generate AI tools to study with a simple text or file prompt!
 
 
 
