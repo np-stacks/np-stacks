@@ -2,16 +2,16 @@
 
 ###### My Proudly Presented Projects...
 - **[My Portfolio](https://stacks08.foo)** - Check me out..!
-- **[Expert Learning](https://expertlearning.app)** - *WIP* Generate AI tools to study with a simple text or file prompt!
+- **[Expert Learning](https://expertlearning.app)** - Generate AI tools for studying/etc with a simple text or file prompt!
 
 
 ###### Projects I'm working on...
-- `76%` **[Expert Learning](https://expertlearning.app)** - *WIP* Generate AI tools to study with a simple text or file prompt!
+- `50%` **[Exhilarate](https://exhilarate.me)** - *WIP* Meditation website.
 
 
 
 ###### Love Languages...
-- Javascript
+- JavaScript (and TypeScript)
 - Python
 - Java
 - Lua
@@ -23,7 +23,7 @@
  - **Discord**: @__stacks
  - **GitHub**: https://github.com/np-stacks/np-stacks/issues
  - **Gmail**: np.stacks@gmail.com
- - **Gmail regarding repositories**: org.stacks@gmail.com
+ - **Gmail regarding projects**: org.stacks@gmail.com
  - *If you want to contact about issues for a website/app, please visit the respective repository* :smile:.
 
 
