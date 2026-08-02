@@ -10,8 +10,7 @@
 
 
 ###### Projects I'm working on...
-- `50%` **[Exhilarate](https://exhilarate.me)** - *WIP* Meditation website.
-
+- something
 
 
 ###### Love Languages...
