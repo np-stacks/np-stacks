@@ -1,8 +1,12 @@
 **Hello I'm [stacks](https://stacks08.foo)  :wave:**
 
 ###### My Proudly Presented Projects...
-- **[My Portfolio](https://stacks08.foo)** - Check me out..!
-- **[Expert Learning](https://expertlearning.app)** - Generate AI tools for studying/etc with a simple text or file prompt!
+- **[My Portfolio](https://stacks08.s.gy)** - Check me out..!
+- **[ZlingPoker](https://zlingpoker.s.gy)** - Poker, Designed for Friends.
+- **[AP Human Geo Study Guide](https://stacks08.s.gy/hug)** - The Perfect Study Guide for studying AP Human Geography.
+- **[AP Human Geo Vocab Study Guide](https://stacks08.s.gy/hug/vocab)** - The Perfect Study Guide for memorizing AP Human Geography Vocab.
+- **[AICE Euro Study Guide](https://stacks08.s.gy/euro)** - The Perfect Study Guide for studying all of AICE Euro, including both papers.
+- **[AICE Euro Vocab Study Guide](https://stacks08.s.gy/euro/vocab)** - The Perfect Study Guide for understanding every single AICE Euro unit, event, term, and paper.
 
 
 ###### Projects I'm working on...
