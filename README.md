@@ -31,6 +31,6 @@
 
 
 ###### Cool stats!
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=np-stacks&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=np-stacks&layout=donut&langs_count=100&theme=swift)](https://github-stats-extended.vercel.app/api/top-langs?username=np-stacks&layout=donut&langs_count=100&theme=swift)
 
-[![Stacks's GitHub stats](https://github-stats-extended.vercel.app/api?username=np-stacks)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=np-stacks&show_icons=true&include_all_commits=true&theme=swift)](https://github-stats-extended.vercel.app/api?username=np-stacks&show_icons=true&include_all_commits=true&theme=swift)
