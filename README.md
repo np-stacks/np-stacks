@@ -33,4 +33,4 @@
 ###### Cool stats!
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=np-stacks&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=np-stacks)](https://github.com/anuraghazra/github-readme-stats)
+[![Stacks's GitHub stats](https://github-stats-extended.vercel.app/api?username=np-stacks)](https://github.com/anuraghazra/github-readme-stats)
